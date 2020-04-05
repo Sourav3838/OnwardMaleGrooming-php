@@ -12,5 +12,5 @@
 # url to start:-
 # http://localhost/malegrooming/
 
-#the project contains the functionality of mail sending, it is adviced to register with a working email id for a better  functionality
+# the project contains the functionality of mail sending, it is adviced to register with a working email id for a better  functionality
 
