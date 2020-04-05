@@ -32,7 +32,7 @@
     </style>
 </head>
 <body>
-  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/admin.jpg');height:70%;" data-stellar-background-ratio="0.5">
+  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/back.jpg');height:70%;" data-stellar-background-ratio="0.5">
 <div data-aos="fade-right">
     <h2 class="about">Welcome Admin</h2>
     <p><span><a href="home.php"><b>Home</b></a></span>><span class="small" style="color:white;">admin</span></p></div>
